@@ -1,0 +1,4 @@
+Created with the built-in image-generation tool.
+
+Final prompt:
+Use case: logo-brand. Create one finished macOS app icon for Sonar, a touchless sonar scrolling app. A cute friendly little bat with large expressive ears, simple glossy dark eyes, tiny smile and beautifully simplified open wings. Apple-like design craftsmanship: restrained, iconic silhouette, softly dimensional sculpted forms, impeccable smooth gradients and soft studio lighting, premium native macOS icon feel. Mint and deep teal bat on a rich midnight teal rounded-square tile with subtle depth. Centered, balanced, recognizable at small sizes. Square 1024x1024 composition, rounded tile inset slightly within a truly transparent outer margin. No text, no letters, no Apple logo, no extra objects, no mockup, deliver just the app icon.
